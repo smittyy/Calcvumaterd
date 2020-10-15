@@ -1,0 +1,15 @@
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Smith_Conner\Desktop\WPF Stuff\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
